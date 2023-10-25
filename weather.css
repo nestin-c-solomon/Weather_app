@@ -1,0 +1,18 @@
+.navbar{
+    height: 15vh;
+    background-color: black;
+    opacity: 0.5;
+}
+body{
+    background-image: url('https://images.unsplash.com/photo-1500740516770-92bd004b996e?auto=format&fit=crop&q=80&w=2072&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.trans{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    /* border: 1px solid red; */
+    /* height: 200px; */
+    color: white;
+    opacity: 0.7;
+}
